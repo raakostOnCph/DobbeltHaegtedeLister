@@ -23,7 +23,7 @@ public class Liste {
 
 // todo 5) lav en funktion der kan fjerne den første knude i listen.
 
-// todo 6) lav en funktion der kan fjerne den sidste knude i listen.
+// todo 6) lav en funktion der kan fjerne den sidste knude i listen.d
 
 // todo 7) lav en funktion der kan finde en bestemt knude.
 
